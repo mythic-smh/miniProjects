@@ -10,6 +10,6 @@ int main() {
     cin >> GasAmount;
     // Print out how much is the cost
     int FinalPrice = GasAmount * 2;
-    cout << "Your final price is" << FinalPrice << endl;
+    cout << "Your final price is " << FinalPrice << endl;
     return 0;
 }
